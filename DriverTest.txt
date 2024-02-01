@@ -1,0 +1,1035 @@
+======================================================
+Filename: DriverTest.txt
+Running Test: Hello, world!
+Recursive: true
+	Class
+	java.lang.String
+	Superclass
+	 java.lang.Object
+	Class
+	java.lang.Object
+	Superclass
+	 Superclass: NONE
+	Interfaces: java.lang.Object
+	 Interface: NONE
+	Constructors: java.lang.Object
+		Name: java.lang.Object
+		 Exception Type: NONE
+		 Parameter Type: NONE
+		 Modifiers: public
+	Methods: java.lang.Object
+		Name: finalize
+		 Parameter Type: class java.lang.Throwable
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: protected
+		Name: wait
+		 Parameter Type: class java.lang.InterruptedException
+		 Parameter Type: long
+		 Return Type: void
+		 Modifiers: public final
+		Name: wait
+		 Parameter Type: class java.lang.InterruptedException
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: public final
+		Name: wait
+		 Parameter Type: class java.lang.InterruptedException
+		 Parameter Type: long
+		 Return Type: void
+		 Modifiers: public final native
+		Name: equals
+		 Parameter Type: NONE
+		 Parameter Type: class java.lang.Object
+		 Return Type: boolean
+		 Modifiers: public
+		Name: toString
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: class java.lang.String
+		 Modifiers: public
+		Name: hashCode
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: int
+		 Modifiers: public native
+		Name: getClass
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: class java.lang.Class
+		 Modifiers: public final native
+		Name: clone
+		 Parameter Type: class java.lang.CloneNotSupportedException
+		 Parameter Type: NONE
+		 Return Type: class java.lang.Object
+		 Modifiers: protected native
+		Name: notify
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: public final native
+		Name: notifyAll
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: public final native
+	Fields: java.lang.Object
+	 Fields: NONE
+Interfaces: java.lang.String
+Class
+ java.lang.String
+interface java.io.Serializable
+Class
+ java.lang.String
+interface java.lang.Comparable
+Class
+ java.lang.String
+interface java.lang.CharSequence
+Class
+ java.lang.String
+interface java.lang.constant.Constable
+Class
+ java.lang.String
+interface java.lang.constant.ConstantDesc
+Constructors: java.lang.String
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class java.lang.StringBuffer
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class java.lang.StringBuilder
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [C
+	 Modifiers: NONE
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class java.lang.AbstractStringBuilder
+	 Modifiers: NONE
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: class java.io.UnsupportedEncodingException
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [B
+	 Modifiers: NONE
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [C
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [C
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class java.lang.String
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: NONE
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: class java.io.UnsupportedEncodingException
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [B
+	 Modifiers: public
+	Name: java.lang.String
+	 Exception Type: NONE
+	 Parameter Type: class [I
+	 Modifiers: public
+Methods: java.lang.String
+	Name: value
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class [B
+	 Modifiers: NONE
+	Name: equals
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.Object
+	 Return Type: boolean
+	 Modifiers: public
+	Name: length
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: int
+	 Modifiers: public
+	Name: toString
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: hashCode
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: int
+	 Modifiers: public
+	Name: getChars
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: public
+	Name: compareTo
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: int
+	 Modifiers: public
+	Name: compareTo
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.Object
+	 Return Type: int
+	 Modifiers: public volatile
+	Name: indexOf
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: indexOf
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: int
+	 Modifiers: public
+	Name: indexOf
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: int
+	 Modifiers: static
+	Name: indexOf
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: int
+	 Modifiers: public
+	Name: indexOf
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: checkIndex
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: class [C
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.Object
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: boolean
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: class [C
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: char
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: double
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: float
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: valueOf
+	 Parameter Type: NONE
+	 Parameter Type: long
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: coder
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: byte
+	 Modifiers: NONE
+	Name: rangeCheck
+	 Parameter Type: NONE
+	 Parameter Type: class [C
+	 Return Type: class java.lang.Void
+	 Modifiers: private static
+	Name: checkBoundsOffCount
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: static
+	Name: lookupCharset
+	 Parameter Type: class java.io.UnsupportedEncodingException
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.nio.charset.Charset
+	 Modifiers: private static
+	Name: isNotContinuation
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: boolean
+	 Modifiers: private static
+	Name: decode2
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: char
+	 Modifiers: private static
+	Name: decodeUTF8_UTF16
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: int
+	 Modifiers: private static
+	Name: scale
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: private static
+	Name: decodeWithDecoder
+	 Parameter Type: NONE
+	 Parameter Type: class java.nio.charset.CharsetDecoder
+	 Return Type: int
+	 Modifiers: private static
+	Name: newStringNoRepl1
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: class java.lang.String
+	 Modifiers: private static
+	Name: newStringUTF8NoRepl
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: class java.lang.String
+	 Modifiers: static
+	Name: throwMalformed
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: private static
+	Name: throwMalformed
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: void
+	 Modifiers: private static
+	Name: encodeUTF8
+	 Parameter Type: NONE
+	 Parameter Type: byte
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: encode8859_1
+	 Parameter Type: NONE
+	 Parameter Type: byte
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: encode8859_1
+	 Parameter Type: NONE
+	 Parameter Type: byte
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: encodeASCII
+	 Parameter Type: NONE
+	 Parameter Type: byte
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: encodeWithEncoder
+	 Parameter Type: NONE
+	 Parameter Type: class java.nio.charset.Charset
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: safeTrim
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: encode
+	 Parameter Type: NONE
+	 Parameter Type: class java.nio.charset.Charset
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: getBytesNoRepl1
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: isASCII
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: boolean
+	 Modifiers: private static
+	Name: throwUnmappable
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: private static
+	Name: throwUnmappable
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: void
+	 Modifiers: private static
+	Name: isMalformed3
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: boolean
+	 Modifiers: private static
+	Name: malformed3
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: int
+	 Modifiers: private static
+	Name: decode3
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: char
+	 Modifiers: private static
+	Name: isMalformed3_2
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: boolean
+	 Modifiers: private static
+	Name: decode4
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: private static
+	Name: isMalformed4
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: boolean
+	 Modifiers: private static
+	Name: malformed4
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: int
+	 Modifiers: private static
+	Name: isMalformed4_2
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: boolean
+	 Modifiers: private static
+	Name: isMalformed4_3
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: boolean
+	 Modifiers: private static
+	Name: encodeUTF8_UTF16
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: class [B
+	 Modifiers: private static
+	Name: isLatin1
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: boolean
+	 Modifiers: NONE
+	Name: charAt
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: char
+	 Modifiers: public
+	Name: codePointAt
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: codePointBefore
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: codePointCount
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: offsetByCodePoints
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: checkBoundsBeginEnd
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: static
+	Name: getBytes
+	 Parameter Type: NONE
+	 Parameter Type: class java.nio.charset.Charset
+	 Return Type: class [B
+	 Modifiers: public
+	Name: getBytes
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: void
+	 Modifiers: NONE
+	Name: getBytes
+	 Parameter Type: class java.io.UnsupportedEncodingException
+	 Parameter Type: class java.lang.String
+	 Return Type: class [B
+	 Modifiers: public
+	Name: getBytes
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: public
+	Name: getBytes
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: void
+	 Modifiers: NONE
+	Name: getBytes
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class [B
+	 Modifiers: public
+	Name: contentEquals
+	 Parameter Type: NONE
+	 Parameter Type: interface java.lang.CharSequence
+	 Return Type: boolean
+	 Modifiers: public
+	Name: contentEquals
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.StringBuffer
+	 Return Type: boolean
+	 Modifiers: public
+	Name: nonSyncContentEquals
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.AbstractStringBuilder
+	 Return Type: boolean
+	 Modifiers: private
+	Name: regionMatches
+	 Parameter Type: NONE
+	 Parameter Type: boolean
+	 Return Type: boolean
+	 Modifiers: public
+	Name: regionMatches
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: boolean
+	 Modifiers: public
+	Name: startsWith
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: boolean
+	 Modifiers: public
+	Name: startsWith
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: boolean
+	 Modifiers: public
+	Name: lastIndexOf
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: int
+	 Modifiers: public
+	Name: lastIndexOf
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: int
+	 Modifiers: static
+	Name: lastIndexOf
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: int
+	 Modifiers: public
+	Name: lastIndexOf
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: lastIndexOf
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: int
+	 Modifiers: public
+	Name: substring
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: substring
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: isEmpty
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: boolean
+	 Modifiers: public
+	Name: replace
+	 Parameter Type: NONE
+	 Parameter Type: char
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: replace
+	 Parameter Type: NONE
+	 Parameter Type: interface java.lang.CharSequence
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: matches
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: boolean
+	 Modifiers: public
+	Name: replaceFirst
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: replaceAll
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: split
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class [Ljava.lang.String;
+	 Modifiers: public
+	Name: split
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class [Ljava.lang.String;
+	 Modifiers: public
+	Name: join
+	 Parameter Type: NONE
+	 Parameter Type: interface java.lang.CharSequence
+	 Return Type: class java.lang.String
+	 Modifiers: public static transient
+	Name: join
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.lang.String
+	 Modifiers: static
+	Name: join
+	 Parameter Type: NONE
+	 Parameter Type: interface java.lang.CharSequence
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: toLowerCase
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: toLowerCase
+	 Parameter Type: NONE
+	 Parameter Type: class java.util.Locale
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: toUpperCase
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: toUpperCase
+	 Parameter Type: NONE
+	 Parameter Type: class java.util.Locale
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: trim
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: strip
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: stripLeading
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: stripTrailing
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: indexOfNonWhitespace
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: int
+	 Modifiers: private
+	Name: lines
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: interface java.util.stream.Stream
+	 Modifiers: public
+	Name: repeat
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: lastIndexOfNonWhitespace
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: int
+	 Modifiers: private
+	Name: outdent
+	 Parameter Type: NONE
+	 Parameter Type: interface java.util.List
+	 Return Type: int
+	 Modifiers: private static
+	Name: isBlank
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: boolean
+	 Modifiers: public
+	Name: toCharArray
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class [C
+	 Modifiers: public
+	Name: format
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.lang.String
+	 Modifiers: public static transient
+	Name: format
+	 Parameter Type: NONE
+	 Parameter Type: class java.util.Locale
+	 Return Type: class java.lang.String
+	 Modifiers: public static transient
+	Name: resolveConstantDesc
+	 Parameter Type: class java.lang.ReflectiveOperationException
+	 Parameter Type: class java.lang.invoke.MethodHandles$Lookup
+	 Return Type: class java.lang.Object
+	 Modifiers: public volatile
+	Name: resolveConstantDesc
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.invoke.MethodHandles$Lookup
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: codePoints
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: interface java.util.stream.IntStream
+	 Modifiers: public
+	Name: newStringNoRepl
+	 Parameter Type: class java.nio.charset.CharacterCodingException
+	 Parameter Type: class [B
+	 Return Type: class java.lang.String
+	 Modifiers: static
+	Name: getBytesUTF8NoRepl
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class [B
+	 Modifiers: static
+	Name: getBytesNoRepl
+	 Parameter Type: class java.nio.charset.CharacterCodingException
+	 Parameter Type: class java.lang.String
+	 Return Type: class [B
+	 Modifiers: static
+	Name: decodeASCII
+	 Parameter Type: NONE
+	 Parameter Type: class [B
+	 Return Type: int
+	 Modifiers: static
+	Name: equalsIgnoreCase
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: boolean
+	 Modifiers: public
+	Name: compareToIgnoreCase
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: int
+	 Modifiers: public
+	Name: endsWith
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: boolean
+	 Modifiers: public
+	Name: subSequence
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: interface java.lang.CharSequence
+	 Modifiers: public
+	Name: concat
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: contains
+	 Parameter Type: NONE
+	 Parameter Type: interface java.lang.CharSequence
+	 Return Type: boolean
+	 Modifiers: public
+	Name: indent
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: stripIndent
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: translateEscapes
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: chars
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: interface java.util.stream.IntStream
+	 Modifiers: public
+	Name: transform
+	 Parameter Type: NONE
+	 Parameter Type: interface java.util.function.Function
+	 Return Type: class java.lang.Object
+	 Modifiers: public
+	Name: formatted
+	 Parameter Type: NONE
+	 Parameter Type: class [Ljava.lang.Object;
+	 Return Type: class java.lang.String
+	 Modifiers: public transient
+	Name: copyValueOf
+	 Parameter Type: NONE
+	 Parameter Type: class [C
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: copyValueOf
+	 Parameter Type: NONE
+	 Parameter Type: class [C
+	 Return Type: class java.lang.String
+	 Modifiers: public static
+	Name: intern
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public native
+	Name: checkOffset
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: static
+	Name: valueOfCodePoint
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: static
+	Name: describeConstable
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.util.Optional
+	 Modifiers: public
+	Name: lambda$stripIndent$3
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: private static
+	Name: lambda$indent$2
+	 Parameter Type: NONE
+	 Parameter Type: int
+	 Return Type: class java.lang.String
+	 Modifiers: private static
+	Name: lambda$indent$1
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.lang.String
+	 Modifiers: private static
+	Name: lambda$indent$0
+	 Parameter Type: NONE
+	 Parameter Type: class java.lang.String
+	 Return Type: class java.lang.String
+	 Modifiers: private static
+Fields: java.lang.String
+	Name: value
+	 Type: class [B
+	 Modifiers: private final
+	  Component Type: byte	 Length: 13	 Value: 72
+	 Value: 101
+	 Value: 108
+	 Value: 108
+	 Value: 111
+	 Value: 44
+	 Value: 32
+	 Value: 119
+	 Value: 111
+	 Value: 114
+	 Value: 108
+	 Value: 100
+	 Value: 33
+	Name: coder
+	 Type: byte
+	 Modifiers: private final
+	 Current Value: byte
+	Name: hash
+	 Type: int
+	 Modifiers: private
+	 Current Value: int
+	Name: hashIsZero
+	 Type: boolean
+	 Modifiers: private
+	 Current Value: boolean
+	Name: serialVersionUID
+	 Type: long
+	 Modifiers: private static final
+	 Current Value: long
+	Name: COMPACT_STRINGS
+	 Type: boolean
+	 Modifiers: static final
+	 Current Value: boolean
+	Name: serialPersistentFields
+	 Type: class [Ljava.io.ObjectStreamField;
+	 Modifiers: private static final
+	  Component Type: class java.io.ObjectStreamField	 Length: 0	Name: REPL
+	 Type: char
+	 Modifiers: private static final
+	 Current Value: char
+	Name: CASE_INSENSITIVE_ORDER
+	 Type: interface java.util.Comparator
+	 Modifiers: public static final
+	 Current Value: java.util.Comparator@27d6c5e0
+	Class
+	java.lang.String$CaseInsensitiveComparator
+	Superclass
+	 java.lang.Object
+	Class
+	java.lang.Object
+	Superclass
+	 Superclass: NONE
+		Interfaces: java.lang.Object
+	 Interface: NONE
+		Constructors: java.lang.Object
+			Name: java.lang.Object
+			 Exception Type: NONE
+			 Parameter Type: NONE
+			 Modifiers: public
+		Methods: java.lang.Object
+			Name: finalize
+			 Parameter Type: class java.lang.Throwable
+			 Parameter Type: NONE
+			 Return Type: void
+			 Modifiers: protected
+			Name: wait
+			 Parameter Type: class java.lang.InterruptedException
+			 Parameter Type: long
+			 Return Type: void
+			 Modifiers: public final
+			Name: wait
+			 Parameter Type: class java.lang.InterruptedException
+			 Parameter Type: NONE
+			 Return Type: void
+			 Modifiers: public final
+			Name: wait
+			 Parameter Type: class java.lang.InterruptedException
+			 Parameter Type: long
+			 Return Type: void
+			 Modifiers: public final native
+			Name: equals
+			 Parameter Type: NONE
+			 Parameter Type: class java.lang.Object
+			 Return Type: boolean
+			 Modifiers: public
+			Name: toString
+			 Parameter Type: NONE
+			 Parameter Type: NONE
+			 Return Type: class java.lang.String
+			 Modifiers: public
+			Name: hashCode
+			 Parameter Type: NONE
+			 Parameter Type: NONE
+			 Return Type: int
+			 Modifiers: public native
+			Name: getClass
+			 Parameter Type: NONE
+			 Parameter Type: NONE
+			 Return Type: class java.lang.Class
+			 Modifiers: public final native
+			Name: clone
+			 Parameter Type: class java.lang.CloneNotSupportedException
+			 Parameter Type: NONE
+			 Return Type: class java.lang.Object
+			 Modifiers: protected native
+			Name: notify
+			 Parameter Type: NONE
+			 Parameter Type: NONE
+			 Return Type: void
+			 Modifiers: public final native
+			Name: notifyAll
+			 Parameter Type: NONE
+			 Parameter Type: NONE
+			 Return Type: void
+			 Modifiers: public final native
+		Fields: java.lang.Object
+	 Fields: NONE
+	Interfaces: java.lang.String$CaseInsensitiveComparator
+	Class
+	 java.lang.String$CaseInsensitiveComparator
+	interface java.util.Comparator
+	Class
+	 java.lang.String$CaseInsensitiveComparator
+	interface java.io.Serializable
+	Constructors: java.lang.String$CaseInsensitiveComparator
+		Name: java.lang.String$CaseInsensitiveComparator
+		 Exception Type: NONE
+		 Parameter Type: NONE
+		 Modifiers: private
+	Methods: java.lang.String$CaseInsensitiveComparator
+		Name: compare
+		 Parameter Type: NONE
+		 Parameter Type: class java.lang.Object
+		 Return Type: int
+		 Modifiers: public volatile
+		Name: compare
+		 Parameter Type: NONE
+		 Parameter Type: class java.lang.String
+		 Return Type: int
+		 Modifiers: public
+		Name: readResolve
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: class java.lang.Object
+		 Modifiers: private
+	Fields: java.lang.String$CaseInsensitiveComparator
+		Name: serialVersionUID
+		 Type: long
+		 Modifiers: private static final
+		 Current Value: long
+	Name: LATIN1
+	 Type: byte
+	 Modifiers: static final
+	 Current Value: byte
+	Name: UTF16
+	 Type: byte
+	 Modifiers: static final
+	 Current Value: byte
+======================================================

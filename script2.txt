@@ -1,0 +1,134 @@
+======================================================
+Filename: script2.txt
+Running Test: ClassA
+Recursive: true
+	Class
+	ClassA
+	Superclass
+	 java.lang.Object
+	 Recursively Inspect -->
+	Class
+	java.lang.Object
+	Superclass
+	 Superclass: NONE
+	Interfaces: java.lang.Object
+	 Interface: NONE
+	Constructors: java.lang.Object
+		Name: java.lang.Object
+		 Exception Type: NONE
+		 Parameter Type: NONE
+		 Modifiers: public
+	Methods: java.lang.Object
+		Name: finalize
+		 Parameter Type: class java.lang.Throwable
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: protected
+		Name: wait
+		 Parameter Type: class java.lang.InterruptedException
+		 Parameter Type: long
+		 Return Type: void
+		 Modifiers: public final
+		Name: wait
+		 Parameter Type: class java.lang.InterruptedException
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: public final
+		Name: wait
+		 Parameter Type: class java.lang.InterruptedException
+		 Parameter Type: long
+		 Return Type: void
+		 Modifiers: public final native
+		Name: equals
+		 Parameter Type: NONE
+		 Parameter Type: class java.lang.Object
+		 Return Type: boolean
+		 Modifiers: public
+		Name: toString
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: class java.lang.String
+		 Modifiers: public
+		Name: hashCode
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: int
+		 Modifiers: public native
+		Name: getClass
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: class java.lang.Class
+		 Modifiers: public final native
+		Name: clone
+		 Parameter Type: class java.lang.CloneNotSupportedException
+		 Parameter Type: NONE
+		 Return Type: class java.lang.Object
+		 Modifiers: protected native
+		Name: notify
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: public final native
+		Name: notifyAll
+		 Parameter Type: NONE
+		 Parameter Type: NONE
+		 Return Type: void
+		 Modifiers: public final native
+	Fields: java.lang.Object
+	 Fields: NONE
+Interfaces: ClassA
+Class
+ ClassA
+interface java.io.Serializable
+Class
+ ClassA
+interface java.lang.Runnable
+Constructors: ClassA
+	Name: ClassA
+	 Exception Type: NONE
+	 Parameter Type: NONE
+	 Modifiers: public
+	Name: ClassA
+	 Exception Type: NONE
+	 Parameter Type: int
+	 Modifiers: public
+Methods: ClassA
+	Name: run
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: void
+	 Modifiers: public
+	Name: toString
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: class java.lang.String
+	 Modifiers: public
+	Name: printSomething
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: void
+	 Modifiers: private
+	Name: setVal
+	 Parameter Type: class java.lang.Exception
+	 Parameter Type: int
+	 Return Type: void
+	 Modifiers: public
+	Name: getVal
+	 Parameter Type: NONE
+	 Parameter Type: NONE
+	 Return Type: int
+	 Modifiers: public
+Fields: ClassA
+	Name: val
+	 Type: int
+	 Modifiers: private
+	 Current Value: int
+	Name: val2
+	 Type: double
+	 Modifiers: private
+	 Current Value: double
+	Name: val3
+	 Type: boolean
+	 Modifiers: private
+	 Current Value: boolean
+======================================================
